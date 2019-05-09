@@ -18,8 +18,9 @@ React
 ES6
 Bootstrap
 CSS
-Website
-https://djgilmore4u.github.io/clicky-game/
+
+Deployed Github Website:
+https://paresh-bhatti.github.io/deployedclicky/
 
 Copyright
 Paresh Bhatti © 2019. All rights reserved.

@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Clicky-Game/static/css/main.2482646f.chunk.css",
+    "main.js": "/Clicky-Game/static/js/main.507ab3ca.chunk.js",
+    "main.js.map": "/Clicky-Game/static/js/main.507ab3ca.chunk.js.map",
+    "runtime~main.js": "/Clicky-Game/static/js/runtime~main.43da1946.js",
+    "runtime~main.js.map": "/Clicky-Game/static/js/runtime~main.43da1946.js.map",
+    "static/js/2.be2527d6.chunk.js": "/Clicky-Game/static/js/2.be2527d6.chunk.js",
+    "static/js/2.be2527d6.chunk.js.map": "/Clicky-Game/static/js/2.be2527d6.chunk.js.map",
+    "index.html": "/Clicky-Game/index.html",
+    "precache-manifest.3cb0aa00a1ea7028cb2aa29cad733647.js": "/Clicky-Game/precache-manifest.3cb0aa00a1ea7028cb2aa29cad733647.js",
+    "service-worker.js": "/Clicky-Game/service-worker.js",
+    "static/css/main.2482646f.chunk.css.map": "/Clicky-Game/static/css/main.2482646f.chunk.css.map",
+    "static/media/Aquarius.jpg": "/Clicky-Game/static/media/Aquarius.93f56132.jpg",
+    "static/media/Aries.jpg": "/Clicky-Game/static/media/Aries.d9294ddb.jpg",
+    "static/media/Cancer.jpg": "/Clicky-Game/static/media/Cancer.ef9bf48f.jpg",
+    "static/media/Capricorn.jpg": "/Clicky-Game/static/media/Capricorn.6dddeb51.jpg",
+    "static/media/Gemini.jpg": "/Clicky-Game/static/media/Gemini.88219501.jpg",
+    "static/media/Leo.jpg": "/Clicky-Game/static/media/Leo.e5ee959f.jpg",
+    "static/media/Pisces.jpg": "/Clicky-Game/static/media/Pisces.e7b6915f.jpg",
+    "static/media/Sagittarius.jpg": "/Clicky-Game/static/media/Sagittarius.8fd860d5.jpg",
+    "static/media/Scorpio.jpg": "/Clicky-Game/static/media/Scorpio.85f8a67d.jpg",
+    "static/media/Taurus.jpg": "/Clicky-Game/static/media/Taurus.6dddeb51.jpg",
+    "static/media/logo.svg": "/Clicky-Game/static/media/logo.5d5d9eef.svg"
+  }
+}
